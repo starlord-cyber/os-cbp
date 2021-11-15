@@ -26,7 +26,9 @@ function createTable() {
         document.getElementById("table").appendChild(table.firstChild);
       }
       console.log(document.getElementById("table"))
+      document.getElementById("pikachu").style.display="block";
     }
+    
   }
 const p={
     processid:0,
